@@ -16,9 +16,9 @@ Android implementation of the "My Orders" UI from OceanX design specs. Built wit
 
 ## 📱 Screenshots
 
-| Orders List                                    |
-|------------------------------------------------|
-| <img src="screenshots/orders.jpg" width="250"> |
+| Current Design                                 | Proposed Design                               |
+|------------------------------------------------|-----------------------------------------------|
+| <img src="screenshots/orders.jpg" width="250"> | <img src="screenshots/todo.jpeg" width="256"> |
 
 ## 🛠 Tech Stack
 
