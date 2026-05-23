@@ -4,6 +4,10 @@ Android implementation of the "My Orders" UI from OceanX design specs. Built wit
 
 <img src="screenshots/demo.gif" width="300" alt="App Demo">
 
+## 🎬 Video Demo
+
+[![Watch the demo](https://img.youtube.com/vi/OAlPogovFhE/maxresdefault.jpg)](https://www.youtube.com/shorts/OAlPogovFhE?feature=share)
+
 ## ✨ Features Implemented
 
 - **RecyclerView** for order listing with custom adapter
@@ -31,3 +35,4 @@ Android implementation of the "My Orders" UI from OceanX design specs. Built wit
   implementation 'com.google.android.material:material:1.12.0'
   implementation 'androidx.recyclerview:recyclerview:1.3.2'
   implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+  ```
