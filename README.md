@@ -4,9 +4,6 @@ Android implementation of the "My Orders" UI from OceanX design specs. Built wit
 
 <img src="screenshots/demo.gif" width="300" alt="App Demo">
 
-// ## 🎬 Video Demo
-
-// [![Watch the demo](https://img.youtube.com/vi/OAlPogovFhE/maxresdefault.jpg)](https://www.youtube.com/shorts/OAlPogovFhE?feature=share)
 
 ## ✨ Features Implemented
 
