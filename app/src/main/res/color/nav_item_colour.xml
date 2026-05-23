@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Selected/Active state = Yellow -->
+    <!-- Selected = Yellow -->
     <item android:color="@color/yellow_500" android:state_checked="true" />
-    <!-- Default/Inactive state = Gray -->
+    <!-- Disabled = Lighter gray -->
+    <item android:color="@color/gray_300" android:state_enabled="false" />
+    <!-- Unselected/Default = Gray -->
     <item android:color="@color/gray_600" />
 </selector>

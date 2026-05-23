@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand color stays same -->
+    <color name="yellow_500">#FFC107</color>
+
+    <!-- Backgrounds flip -->
+    <color name="white">#121212</color>        <!-- Was #FFFFFF -->
+    <color name="black">#FFFFFF</color>        <!-- Was #000000 -->
+
+    <!-- Grays for dark surfaces -->
+    <color name="gray_100">#212121</color>
+    <color name="gray_300">#424242</color>     <!-- Borders/cards -->
+    <color name="gray_400">#616161</color>
+    <color name="gray_600">#BDBDBD</color>     <!-- Unselected text -->
+
+    <!-- Status colors - lighter for dark bg -->
+    <color name="green_500">#66BB6A</color>
+    <color name="red_500">#EF5350</color>
+
+    <!-- Purple banner - dark variant -->
+    <color name="banner_bg">#311B92</color>    <!-- Was #F3E5F5 -->
+    <color name="banner_text">#E1BEE7</color>  <!-- Was #4A148C -->
+    <color name="banner_icon">#CE93D8</color>  <!-- Was #9C27B0 -->
+</resources>

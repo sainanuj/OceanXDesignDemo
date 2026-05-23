@@ -3,6 +3,12 @@
     <style name="Base.Theme.OceanXDesingDemo" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/yellow_500</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorSecondaryContainer">@color/banner_bg</item>
+        <item name="colorOnSecondaryContainer">@color/banner_text</item>
     </style>
 
     <style name="Theme.OceanXDesingDemo" parent="Base.Theme.OceanXDesingDemo" />
